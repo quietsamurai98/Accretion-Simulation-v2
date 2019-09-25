@@ -1,2 +1,2 @@
 # Accretion-Simulation-v2
-A full rewrite of my previous accretion simulation
+A full rewrite of my previous accretion simulation (coming soon)
